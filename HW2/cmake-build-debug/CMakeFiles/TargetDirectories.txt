@@ -1,0 +1,3 @@
+C:/Users/sdown/OneDrive/Documents/GitHub/SciComp/HW2/cmake-build-debug/CMakeFiles/hw2.dir
+C:/Users/sdown/OneDrive/Documents/GitHub/SciComp/HW2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sdown/OneDrive/Documents/GitHub/SciComp/HW2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
